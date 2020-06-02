@@ -4,25 +4,25 @@
 .h{
    background-color:red;
    margin:20px;
-   padding:10px;
+   padding:none;
    float:left;
-   border:10px solid black;
+   border:1px solid black;
    position:relative;
    overflow:auto;
  }
 .j{background-color:blue;
    margin:20px;
-   padding:10px;
+   padding:none;
    float:left;
-   border:10px solid black;
+   border:1px solid black;
    position:relative;
    overflow:auto;
   }
 .n{background-color:grey;
    margin:20px;
-   padding:10px;
+   padding:none;
    float:left;
-   border:10px solid black;
+   border:1px solid black;
    position:relative;
    overflow:auto;
   }
@@ -31,7 +31,10 @@
     text-align:right;
     margin-left:70%;
     border-bottom:5px solid black;
+    border-left:5px solid black;
     margin-top:0;
+    background-color:white;
+    padding-right:none;
    }
 p{ 
    color:white;
